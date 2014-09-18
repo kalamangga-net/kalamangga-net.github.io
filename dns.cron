@@ -1,0 +1,1 @@
+4,9,14,19,24,29,34,39,44,49,54,59 * * * * sleep 19 ; wget -O - http://freedns.afraid.org/dynamic/update.php?bWNSR0g4dVpHbGpyQ1NYdGZYSmo6MTIwNTU2NjM= >> /tmp/freedns_@_kalamangga_net.log 2>&1 &
