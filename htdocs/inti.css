@@ -69,8 +69,7 @@ img, #logo {
 }
 #logo {
 	background:url("logo.png") no-repeat;
-	width:200px;
-	height:150px;
+	background-size:200px 150px;
 	-webkit-transition:all 2s ease;
 	transition:all 2s ease;
 }
